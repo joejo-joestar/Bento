@@ -1,12 +1,12 @@
-/* 
+/*
 // ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
 // ╠╩╗║╣ ║║║ ║ ║ ║
-// ╚═╝╚═╝╝╚╝ ╩ ╚═╝ 
+// ╚═╝╚═╝╝╚╝ ╩ ╚═╝
 */
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;700&display=swap'); /* Font Import */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;700&display=swap"); /* Font Import */
 
 :root {
   /* Font Size */
@@ -16,15 +16,14 @@
   --fg-list: 2vh; /* Links List */
   --icon: 3vh; /* Icon Size */
 
+  /* Dark Colors  */
+  --accent: #57a0d9; /* Hover color */
+  --background: #19171a; /* Background color */
+  --cards: #201e21; /* Cards color */
 
-    /* Dark Colors  */
-    --accent: #57a0d9; /* Hover color */
-    --background: #19171a; /* Background color */
-    --cards: #201e21; /* Cards color */
-  
-    /* Fonts Color */
-    --fg: #d8dee9; /* Foreground color */
-    --sfg: #2c292e; /* Secondary Foreground color */
+  /* Fonts Color */
+  --fg: #d8dee9; /* Foreground color */
+  --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -35,7 +34,6 @@
 }
 
 .darktheme {
-
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
   --sfg: #494949; /* Sceondary Foreground color */
@@ -58,7 +56,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   transition: 0.2s ease-in-out;
 }
 
@@ -129,14 +127,14 @@ body {
   justify-content: center;
 }
 
-/* .weatherBlock {
+.weatherBlock {
   grid-column: 3 / span 2;
   grid-row: 1 / span 2;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-} */
+}
 
 .date {
   display: flex;
@@ -144,7 +142,7 @@ body {
   justify-content: center;
   margin-top: 30px;
 }
-/* 
+/*
 .weather {
   display: flex;
   align-items: center;
