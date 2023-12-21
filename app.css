@@ -142,12 +142,12 @@ body {
   justify-content: center;
   margin-top: 30px;
 }
-/*
+
 .weather {
   display: flex;
   align-items: center;
   justify-content: center;
-} */
+}
 
 .clock {
   display: flex;
