@@ -61,17 +61,17 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Uni Mail',
+			icon: 'school',
+			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Uni LMS',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
@@ -133,98 +133,98 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	// firstlistsContainer: [
-	// 	{
-	// 		icon: 'music',
-	// 		id: '1',
-	// 		links: [
-	// 			{
-	// 				name: 'Inspirational',
-	// 				link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-	// 			},
-	// 			{
-	// 				name: 'Classic',
-	// 				link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-	// 			},
-	// 			{
-	// 				name: 'Oldies',
-	// 				link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-	// 			},
-	// 			{
-	// 				name: 'Rock',
-	// 				link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-	// 			},
-	// 		],
-	// 	},
-	// 	{
-	// 		icon: 'coffee',
-	// 		id: '2',
-	// 		links: [
-	// 			{
-	// 				name: 'Linkedin',
-	// 				link: 'https://www.linkedin.com',
-	// 			},
-	// 			{
-	// 				name: 'Dribbble',
-	// 				link: 'https://www.dribbble.com',
-	// 			},
-	// 			{
-	// 				name: 'Trello',
-	// 				link: 'https://www.trello.com',
-	// 			},
-	// 			{
-	// 				name: 'Slack',
-	// 				link: 'https://www.slack.com',
-	// 			},
-	// 		],
-	// 	},
-	// ],
+	firstListsContainer: [
+		{
+			icon: 'school-2',
+			id: '1',
+			links: [
+				{
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
+				},
+			],
+		},
+	],
 
 	// Second Links Container
-	// secondListsContainer: [
-	// 	{
-	// 		icon: 'binary',
-	// 		id: '1',
-	// 		links: [
-	// 			{
-	// 				name: 'Spotify',
-	// 				link: 'https://www.spotify.com',
-	// 			},
-	// 			{
-	// 				name: 'Reddit',
-	// 				link: 'https://www.reddit.com',
-	// 			},
-	// 			{
-	// 				name: 'Hashnode',
-	// 				link: 'https://www.hashnode.com',
-	// 			},
-	// 			{
-	// 				name: 'Pocket',
-	// 				link: 'https://www.pocket.com',
-	// 			},
-	// 		],
-	// 	},
-	// 	{
-	// 		icon: 'github',
-	// 		id: '2',
-	// 		links: [
-	// 			{
-	// 				name: 'Front',
-	// 				link: 'https://www.reddit.com/r/Frontend/',
-	// 			},
-	// 			{
-	// 				name: 'Rust',
-	// 				link: 'https://www.reddit.com/r/rust/',
-	// 			},
-	// 			{
-	// 				name: 'Go',
-	// 				link: 'https://www.reddit.com/r/golang/',
-	// 			},
-	// 			{
-	// 				name: 'Repos',
-	// 				link: 'https://github.com/migueravila',
-	// 			},
-	// 		],
-	// 	},
-	// ],
+	secondListsContainer: [
+		{
+			icon: 'binary',
+			id: '1',
+			links: [
+				{
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
+				},
+				{
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
+				},
+				{
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com',
+				},
+				{
+					name: 'Pocket',
+					link: 'https://www.pocket.com',
+				},
+			],
+		},
+		{
+			icon: 'github',
+			id: '2',
+			links: [
+				{
+					name: 'Front',
+					link: 'https://www.reddit.com/r/Frontend/',
+				},
+				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
+				{
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
+				},
+				{
+					name: 'Repos',
+					link: 'https://github.com/migueravila',
+				},
+			],
+		},
+	],
 };
