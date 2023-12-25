@@ -202,10 +202,6 @@ const CONFIG = {
           name: "logic bs",
           link: "https://proofs.openlogicproject.org",
         },
-        {
-          name: "kinda useless",
-          link: "https://uni-notes.netlify.app/2_Core/",
-        },
       ],
     },
     {
