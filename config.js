@@ -148,7 +148,7 @@ const CONFIG = {
         },
         {
           name: "Official Mail",
-          link: "https://mail.google.com/mail/u/2/#inbox",
+          link: "https://mail.google.com/mail/u/3/#inbox",
         },
         {
           name: "Yahoo Mail",
@@ -178,13 +178,9 @@ const CONFIG = {
         },
       ],
     },
-  ],
-
-  // Second Links Container
-  secondListsContainer: [
     {
       icon: "school-2",
-      id: "1",
+      id: "3",
       links: [
         {
           name: "Uni LMS",
@@ -195,23 +191,23 @@ const CONFIG = {
           link: "https://classroom.google.com/u/1/",
         },
         {
-          name: "EDA playground",
-          link: "https://edaplayground.com/",
+          name: "freeCodeCamp(🔥)",
+          link: "https://www.freecodecamp.org/learn",
         },
         {
-          name: "logic bs",
-          link: "https://proofs.openlogicproject.org",
+          name: "ERP",
+          link: "https://sis.erp.bits-pilani.ac.in/psc/sisprd/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL",
         },
       ],
     },
     {
       icon: "popcorn",
-      id: "2",
+      id: "4",
       links: [
-		  {
-			name: "YouTube",
-			link: "https://www.youtube.com",
-		  },
+        {
+          name: "YouTube",
+          link: "https://www.youtube.com",
+        },
         {
           name: "FMoviesz",
           link: "https://fmoviesz.to/home",
@@ -225,6 +221,11 @@ const CONFIG = {
           link: "",
         },
       ],
-    },
+    }
   ],
+
+  //   // Second Links Container
+  //   secondListsContainer: [
+  //     ,
+  //   ],
 };
