@@ -178,6 +178,11 @@ const CONFIG = {
         },
       ],
     },
+
+  ],
+
+  // Second Links Container
+  secondListsContainer: [
     {
       icon: "school-2",
       id: "3",
@@ -223,9 +228,4 @@ const CONFIG = {
       ],
     }
   ],
-
-  //   // Second Links Container
-  //   secondListsContainer: [
-  //     ,
-  //   ],
 };
