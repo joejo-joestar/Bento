@@ -185,7 +185,7 @@ const CONFIG = {
   secondListsContainer: [
     {
       icon: "school-2",
-      id: "3",
+      id: "1",
       links: [
         {
           name: "Uni LMS",
@@ -207,7 +207,7 @@ const CONFIG = {
     },
     {
       icon: "popcorn",
-      id: "4",
+      id: "2",
       links: [
         {
           name: "YouTube",
