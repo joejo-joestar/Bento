@@ -165,7 +165,7 @@ const CONFIG = {
           link: "https://github.com",
         },
         {
-          name: "Repos",
+          name: "Profile",
           link: "https://github.com/joejo-joestar/",
         },
         {
@@ -173,8 +173,8 @@ const CONFIG = {
           link: "https://github.com/joejo-joestar/uni-codes",
         },
         {
-          name: "idk",
-          link: "",
+          name: "DSA-Stuff",
+          link: "https://github.com/joejo-joestar/DSA-Stuff",
         },
       ],
     },
@@ -188,12 +188,9 @@ const CONFIG = {
       links: [
         {
           name: "Uni LMS",
-          link: "https://lms.bitspilanidubai.ae/my/",
+          link: "https://lms.bits-pilani.ac.in/moodle/",
         },
-        {
-          name: "Google Classroom",
-          link: "https://classroom.google.com/u/1/",
-        },
+
         {
           name: "freeCodeCamp(🔥)",
           link: "https://www.freecodecamp.org/learn",
@@ -201,6 +198,10 @@ const CONFIG = {
         {
           name: "ERP",
           link: "https://sis.erp.bits-pilani.ac.in/psc/sisprd/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL",
+        },
+        {
+          name: "Library",
+          link: "https://bpdc.knimbus.com/user#/home",
         },
       ],
     },
@@ -213,16 +214,16 @@ const CONFIG = {
           link: "https://www.youtube.com",
         },
         {
-          name: "FMoviesz",
-          link: "https://fmoviesz.to/home",
+          name: "345movies",
+          link: "https://345movies.com/home",
+        },
+        {
+          name: "freek",
+          link: "https://freek.to/",
         },
         {
           name: "AniWave",
-          link: "https://aniwave.to/home",
-        },
-        {
-          name: "idk",
-          link: "",
+          link: "https://animepahe.ru/",
         },
       ],
     },

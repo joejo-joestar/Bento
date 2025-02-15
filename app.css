@@ -17,9 +17,9 @@
   --icon: 3vh; /* Icon Size */
 
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --accent: #8ece6a; /* Hover color */
+  --background: #23222b; /* Background color */
+  --cards: #424051; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
@@ -114,7 +114,7 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-0.2rem);
+  transform: translateY(-0.1rem);
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
 }
 
