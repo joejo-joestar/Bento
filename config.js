@@ -148,7 +148,7 @@ const CONFIG = {
         },
         {
           name: "Official Mail",
-          link: "https://mail.google.com/mail/u/3/#inbox",
+          link: "https://mail.google.com/mail/u/2/#inbox",
         },
         {
           name: "Yahoo Mail",
@@ -188,7 +188,7 @@ const CONFIG = {
       links: [
         {
           name: "Uni LMS",
-          link: "https://lms.bits-pilani.ac.in/moodle/",
+          link: "https://lms.bits-pilani.ac.in/moodle/login",
         },
 
         {
@@ -211,19 +211,19 @@ const CONFIG = {
       links: [
         {
           name: "YouTube",
-          link: "https://www.youtube.com",
+          link: "https://www.youtube.com/",
         },
         {
           name: "345movies",
-          link: "https://345movies.com/home",
-        },
-        {
-          name: "freek",
-          link: "https://freek.to/",
+          link: "https://brocoflix.com/",
         },
         {
           name: "AniWave",
           link: "https://animepahe.ru/",
+        },
+        {
+          name: "idk",
+          link: "",
         },
       ],
     },
